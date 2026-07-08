@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.bak
+
+# Virtual environment (recreate with: python -m venv venv)
+venv/
+.venv/
+
+# Downloaded models (~3 GB, fetched from HuggingFace on first run)
+models/
+
+# Logs
+*.log

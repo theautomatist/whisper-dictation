@@ -1,0 +1,11 @@
+# Core dependencies
+faster-whisper==1.2.1
+sounddevice==0.5.5
+keyboard==0.13.5
+pyperclip==1.11.0
+numpy==2.2.6
+
+# CUDA 12 runtime libraries, loaded explicitly by the scripts via
+# os.add_dll_directory(). Remove these two lines for a CPU-only install.
+nvidia-cublas-cu12==12.9.2.10
+nvidia-cudnn-cu12==9.23.2.1
