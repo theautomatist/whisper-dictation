@@ -1,4 +1,5 @@
 # whisper-dictation
+[![ci](https://github.com/theautomatist/whisper-dictation/actions/workflows/ci.yml/badge.svg)](https://github.com/theautomatist/whisper-dictation/actions/workflows/ci.yml)
 
 Local, private push-to-talk dictation for Windows — powered by
 [faster-whisper](https://github.com/SYSTRAN/faster-whisper) `large-v3` running
